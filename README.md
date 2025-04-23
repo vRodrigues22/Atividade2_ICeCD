@@ -1,4 +1,16 @@
-# 📘 Atividade 2 – Análise Estatística de Emissões de CO₂
+# Atividade 2: Z-score e Distribuição Binomial
+
+**Nome:** Valéria Oliveira Rodrigues
+
+**Instituição:** Universidade Federal do Pará
+
+**Curso:** Mestrado em Ciência da Computação / PPGCC
+
+**Disciplina:** Fundamentos de Inteligência Computacional e Ciência Dados
+
+**Link do Dataset utilizado:** [SEEG](https://seeg.eco.br/wp-content/uploads/2024/11/SEEG-12-dados-municipais.xlsx)
+
+## 📘 Análise Estatística de Emissões de CO₂
 Este repositório contém o notebook desenvolvido como parte da Atividade 2 da disciplina, com foco em exploração estatística e simulação de dados ambientais com base no dataset do SEEG (Sistema de Estimativas de Emissões de Gases de Efeito Estufa).
 
 ## 🔍 Conteúdo da atividade:
