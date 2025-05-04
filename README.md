@@ -1,4 +1,4 @@
-# Atividade 2: Z-score e Distribuição Binomial
+# 🧠 Fundamentos da Inteligência Computacional e Ciência de Dados
 
 **Nome:** Valéria Oliveira Rodrigues
 
@@ -8,49 +8,35 @@
 
 **Disciplina:** Fundamentos de Inteligência Computacional e Ciência Dados
 
-**Link do Dataset utilizado:** [SEEG](https://seeg.eco.br/wp-content/uploads/2024/11/SEEG-12-dados-municipais.xlsx)
-
-## 📘 Análise Estatística de Emissões de CO₂
-Este repositório contém o notebook desenvolvido como parte da Atividade 2 da disciplina, com foco em exploração estatística e simulação de dados ambientais com base no dataset do SEEG (Sistema de Estimativas de Emissões de Gases de Efeito Estufa).
-
-## 🔍 Conteúdo da atividade:
-### ✅ Parte A – Histogramas por Classe de Emissão
-Agrupamento dos dados por Setor de Emissão.
-
-Visualização da distribuição das emissões nos anos 2020 e 2023, com histogramas de 10 e 20 compartimentos.
-
-### ✅ Parte B – Análise de Z-score
-Geração de dados artificiais simulando emissões municipais.
-
-Cálculo do Z-score para um valor observado.
-
-Representação gráfica da distribuição e cálculo de probabilidades.
-
-### ✅ Parte C – Simulação Binomial
-Considera que 80% dos municípios emitem acima de um determinado valor.
-
-Cálculo da probabilidade binomial e simulação de amostras aleatórias.
 
 
-## 🛠️ Ferramentas utilizadas
-* Python 3
+## 📚 Sobre a Disciplina
 
-* Google Colab
+A disciplina tem como objetivo introduzir os conceitos fundamentais da Inteligência Computacional e da Ciência de Dados, abordando técnicas e ferramentas utilizadas no processamento inteligente de informações, bem como a extração de conhecimento a partir de dados.
 
-* Bibliotecas: pandas, numpy, matplotlib, seaborn, scipy
+### Conteúdos abordados:
 
-## 📎 Arquivos
-`atividade2_zscore_binomial.ipynb`: notebook principal com todas as análises.
+- Introdução à Inteligência Computacional
+- Fundamentos de Lógica Nebulosa (Fuzzy)
+- Redes Neurais Artificiais
+- Algoritmos Evolutivos
+- Introdução à Ciência de Dados
+- Análise Exploratória de Dados
+- Pré-processamento e Limpeza de Dados
+- Visualização de Dados
+- Introdução ao Aprendizado de Máquina
 
-`SEEG-12-dados-municipais.xlsx`: base de dados utilizada (não incluída por restrição de tamanho ou direitos autorais).
+## 📁 Estrutura do Repositório
 
-`histogramas_emissao_setores/`: pastas com imagens geradas automaticamente (opcional).
-
-## 👩‍🏫 Objetivo
-Consolidar conhecimentos sobre:
-
-* Distribuições de frequência
-
-* Z-score e padronização
-
-* Aplicações da distribuição binomial na estatística aplicada ao meio ambiente
+```bash
+├── atividades/
+│   ├── atividade_02/
+│   ├── atividade_03/
+│   └── ...
+├── datasets/
+│   └── [SEEG](https://seeg.eco.br/wp-content/uploads/2024/11/SEEG-12-dados-municipais.xlsx)
+├── notebooks/
+│   └── (Notebooks Jupyter com as implementações)
+├── imagens/
+│   └── (Gráficos, diagramas e ilustrações)
+└── README.md
