@@ -14,6 +14,7 @@
 
 A disciplina tem como objetivo introduzir os conceitos fundamentais da Inteligência Computacional e da Ciência de Dados, abordando técnicas e ferramentas utilizadas no processamento inteligente de informações, bem como a extração de conhecimento a partir de dados.
 
+<!--
 ### Conteúdos abordados:
 
 - Introdução à Inteligência Computacional
@@ -25,6 +26,8 @@ A disciplina tem como objetivo introduzir os conceitos fundamentais da Inteligê
 - Pré-processamento e Limpeza de Dados
 - Visualização de Dados
 - Introdução ao Aprendizado de Máquina
+-->
+
 
 ## 📁 Estrutura do Repositório
 
